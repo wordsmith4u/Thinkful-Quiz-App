@@ -1,0 +1,149 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.about-container {
+	background: url('bg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 600px;
+  
+}
+
+h1 {
+	color: #ccd3e0;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2 {
+	color: #ccd3e0;
+	font-size: 18px;
+	margin-top: 0;
+}
+
+.bio {
+	color: #ccd3e0;
+	font-size: 14px;
+}
+
+.me {
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+}
+
+.about {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.grey {
+	height: 3px;
+	background-color: #CBC3C2;
+	border: none;
+	width: 50px;
+}
+
+h3 {
+	text-align: center;
+	font-size: 28px;
+	font-weight: normal;
+	margin-top: 100px;	
+}
+
+.blue {
+	border-top: 5px double #23AFDE;
+	width: 250px;
+	border-bottom: none;
+  	border-right: none;
+}
+
+.box {
+	float: left;
+	width: 42.5%;
+	margin-left: 5%;
+	margin-top: 80px;
+}
+
+.clear {
+	clear: both;
+}
+
+h4 {
+	text-align: center;
+	font-size: 24px;
+}
+
+p {
+	text-align: center;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.skills-and-tools {
+ 	max-width: 400px;
+  	margin: 40px auto;
+}
+
+.icons {
+  text-align: center;
+}
+
+.icon {
+  margin: 30px 0;
+}
+
+.contact-me {
+  height: 350px;
+  background-color: #202020;
+  padding-top: 30px;
+}
+
+.contact-headline {
+  color: white;
+}
+
+.contact-info {
+  color: white;
+  font-size: 13px;
+  margin-top: 30px;
+}
+
+.contact-link {
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+}
+
+li {
+  display: inline-block;
+  font-size: 12px;
+  width: 100px;
+  font-weight: bold;
+  margin-top: 30px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+  margin-left: 30px;
+}
+
+.hire-me {
+  border-style: solid;
+  border-color: white;
+}
